@@ -14,7 +14,7 @@ Este repositório contém o código-fonte de um site desenvolvido com **HTML**, 
 
 - **HTML5**: Estrutura da página
 - **CSS3**: Estilização avançada com animações e efeitos visuais
-- **JavaScript**: Funcionalidades dinâmicas (se aplicável)
+- **JavaScript**: Funcionalidades dinâmicas
 
 ## Como Executar o Projeto
 
